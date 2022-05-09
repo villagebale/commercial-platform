@@ -1,5 +1,3 @@
-import { CategoriesContext } from "../../contexts/categories.context";
-
 import './cart-item.styles.scss'
 
 const CartItem = ({cartItem}) => {
